@@ -20,7 +20,7 @@ body {
 }
 
 body * {
-    font-family: var(--ff-primary):
+    font-family: var(--ff-primary);
 }
 
 .sr-only {
@@ -36,7 +36,7 @@ body * {
 }
 
 #app {
-    max-width: 50rem;
+    max-width: 60rem;
     margin: 0 auto;
     padding: 2rem;
 }
